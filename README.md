@@ -1,8 +1,12 @@
 Frequency Domain Complex-Valued Convolutional Neural Network
 ===========
 This repository contains code which reproduces experiments presented in the paper [Frequency Domain Complex-Valued Convolutional Neural Network](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5215117).
+<p align="center">
+	<img src="Fig1.png"  width="100%" height="100%">
+	<br>
+	<em>The block diagram of the Complex-Valued Residual Convolutional Neural Network.</em>
+</p>
 
-![The block diagram of the Complex-Valued Residual Convolutional Neural Network](Fig1.png "The block diagram of the Complex-Valued Residual Convolutional Neural Network")
 
 ## Requirements
 
