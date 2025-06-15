@@ -31,7 +31,7 @@ The main requirements are listed below:
 * [MNIST Dataset](http://yann.lecun.com/exdb/mnist/)
 
 ## Steps for training and testing
-To train the frequency domain complex-valued convolutional neural network, run the following commands:
+To train and test the frequency domain complex-valued convolutional neural network, run the following commands:
 
 * python HAR.py
 * python SUAV.py
