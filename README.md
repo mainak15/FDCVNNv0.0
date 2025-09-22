@@ -43,9 +43,13 @@ To train and test the frequency domain complex-valued convolutional neural netwo
 
 If you find our work useful, you can cite our paper using:
 ```
-@article{chakraborty5215117frequency,
-  title={Frequency Domain Complex-Valued Convolutional Neural Network},
+@article{chakraborty2026frequency,
+  title={Frequency domain complex-valued convolutional neural network},
   author={Chakraborty, Mainak and Aryapoor, Masood and Daneshtalab, Masoud},
-  journal={Available at SSRN 5215117}
+  journal={Expert Systems with Applications},
+  volume={295},
+  pages={128893},
+  year={2026},
+  publisher={Elsevier}
 }
 ```        
